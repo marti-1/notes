@@ -23,6 +23,7 @@ Shannon notices that most of the information in the world is predictable to a ce
 ```
 H = sum_i p_i * log (1/p_i)
 ```
+
 	- `p_i` is a probability of a certain symbol `i` being produced by the machine
 	- `log(1/p_i)` -- cost of binary search over a search tree for a symbol `i`
 	- `H` -- average uncertainty of the whole MP
