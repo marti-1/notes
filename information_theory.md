@@ -41,9 +41,7 @@ AAAAABAAAAAAAB
 AABAAAAAABAAAA
 ```
 
-* Stationary source -- when sample distribution does not change as time passes (assuming continuous sampling).
-
-Stationary:
+* Stationary source -- when sample distribution does not change as time passes (assuming continuous sampling):
 ```
 AAAAAAAA
 BBBBBBBB
