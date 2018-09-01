@@ -31,3 +31,8 @@ The MP machine can also be visualised as an actual machine, where a pebble is bo
 	H = sum_i * p_i * #bounces
 
 Information is actually uncertainty (the more something is uncertain the more information we gain).
+
+## Definitions
+
+* Ergodic source -- when sample distribution matches ensamble (set of samples) distribution.
+* Stationary source -- when sample distribution does not change as time passes (assuming continuous sampling).
