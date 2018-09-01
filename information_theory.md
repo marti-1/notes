@@ -34,5 +34,17 @@ Information is actually uncertainty (the more something is uncertain the more in
 
 ## Definitions
 
-* Ergodic source -- when sample distribution matches ensamble (set of samples) distribution.
+* Ergodic source -- when sample distribution matches ensamble (set of samples) distribution:
+
+```
+AAAAABAAAAAAAB
+AABAAAAAABAAAA
+```
+
 * Stationary source -- when sample distribution does not change as time passes (assuming continuous sampling).
+
+Stationary:
+```
+AAAAAAAA
+BBBBBBBB
+```
