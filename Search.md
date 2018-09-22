@@ -23,6 +23,12 @@
 * DFS:
     - space complexity is low;
     - not guaranteed to find a solution if there are branches with infinite depth;
+* Iterative deepening:
+    - hybrid of BFS and DFS;
+    - consumes as much memory as DFS
+    - is complete when branching factor is finite
+    - is optimal when the cost is non-decreasing
+    - you have to repeat the search everytime the search depth is increased, however the time complexity is still `O(b^d)`
 
 ### Greedy BFS
 Using a greedy algorithm, expand the first successor of the parent. After a successor is generated:
